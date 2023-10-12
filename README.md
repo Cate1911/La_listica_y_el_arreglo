@@ -22,6 +22,7 @@ Un algoritmo de sorting es un algoritmo que arregla una lista en orden, ya sea o
 * **Orden de selección (Selectión Sort):** este algoritmo construye una lista (la ordenada) y empieza a trasladar el elemento más pequeño de la lista original (lista desordenada) hacia la lista que construyó.
 * **Tipo de inserción (Insert Sort):** construye una lista ordenada uno a uno, recorriendo los elementos no ordenados y colocándolos en la posición correcta en la lista ordenada. Es eficiente para conjuntos de datos pequeños.
 * **Combinar ordenación (Merge Sort):** empieza dividiendo en 2 la lista, después en 4 y así sucesivamente, esto, hasta que tenga cadenas de longitud 1 o de 1 elemento. Luego, se ordena cada elemento empezando con la fusión de dos pares entre sí, despuésen grupos y así sucesivamente hasta que se tenga una lista ordenada.
+
 _Fuente:_ Peña, M. J. (2021, 30 junio). Tipos de algoritmos de ordenación en Python - Másteres online no 1 Empleabilidad. International Business School. https://eiposgrados.com/blog-python/tipos-de-algoritmos-de-ordenacion-en-python/
 
 **_Muchas gracias por ver mi repo, TQM (sólo si le das estrellita) y toma agua :)_**
