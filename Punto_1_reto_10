@@ -1,0 +1,14 @@
+#Desarrollar un algoritmo que calcule el promedio de un arreglo de reales
+def promedioArreglo(listaDeReales) -> float:
+    suma = 0
+    for numero in listaDeReales:
+        suma += numero
+    promedio = suma / len(listaDeReales)
+    return promedio
+
+if __name__ == "__main__": #definir la función main con las variables que utilicé
+    listaDeReales = [12, -14, 8, 14, 19, 32, 15, 0.75]
+
+    promedio = promedioArreglo(listaDeReales)
+
+    print(f"El promedio de la lista es {promedio}")

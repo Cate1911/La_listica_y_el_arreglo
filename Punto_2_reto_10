@@ -1,0 +1,11 @@
+def producto_punto_dos_arreglos(vector_a, vector_b) -> float:
+    producto_punto = (vector_a[0] * vector_b[0]) + (vector_a[1] * vector_b[1])
+    return producto_punto
+
+if __name__ == "__main__": #definir la función main con las variables que utilicé
+    vector_a = [5, 8]
+    vector_b = [3, 4]
+
+    producto_punto = producto_punto_dos_arreglos(vector_a, vector_b)
+
+    print(f"El producto punto entre los vectores a y b es {producto_punto}.")
