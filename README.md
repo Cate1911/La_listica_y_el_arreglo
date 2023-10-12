@@ -1,7 +1,7 @@
 # La_listica_y_el_arreglito
 Este repositorio contiene todo el Reto 10. Si lo usas de guia, porfa dale estrellita :D.
 ## 1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
-
+Cree una lista de números reales y mediante la función "promedioArreglo", inicialicé la variable suma como 0 y dejé que se actualizara a partir de cada elemento que se encontraba en la lista; para que cogiera cada elemento el algoritmo, utilice "for", así, después de que recorra todos los elementos de la lista, esa suma se va a dividir entre la longitud de la lista o la cadena, la cual, hace referencia a la cantidad de elementos presentes en la lista.
 ![image](https://github.com/Cate1911/La_listica_y_el_arreglo/assets/141857246/2364e0d1-a6cf-48b9-bbec-972f1d3c0868)
 
 ## 2. Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
@@ -10,7 +10,7 @@ Aquí tomé como referencia que el producto punto se calcula entre la suma de la
 ![image](https://github.com/Cate1911/La_listica_y_el_arreglo/assets/141857246/b01fa2af-1e88-4d49-b390-00bb410f6461)
 
 ## 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
-
+Este es el código más corto que he hecho, de hecho, creo que el comentario inicial fue lo más largo de todo el algoritmo. Lo único que puedo comentar es que utilice count para que me contara los ceros que habían en la lista que cree (puse entre paréntesis qué quería que me contara en la lista) y ese fue todo el procedimiento.
 ![image](https://github.com/Cate1911/La_listica_y_el_arreglo/assets/141857246/10fee1da-5594-471c-ba72-0e0d13923de7)
 
 ## 4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
