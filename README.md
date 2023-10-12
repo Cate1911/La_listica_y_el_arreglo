@@ -1,5 +1,5 @@
-# La_listica_y_el_arreglo
-Este repositorio contiene todo el Reto 10.
+# La_listica_y_el_arreglito
+Este repositorio contiene todo el Reto 10. Si lo usas de guia, porfa dale estrellita :D.
 ## 1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 
 ![image](https://github.com/Cate1911/La_listica_y_el_arreglo/assets/141857246/2364e0d1-a6cf-48b9-bbec-972f1d3c0868)
@@ -24,3 +24,5 @@ Un algoritmo de sorting es un algoritmo que arregla una lista en orden, ya sea o
 * **Combinar ordenación (Merge Sort):** empieza dividiendo en 2 la lista, después en 4 y así sucesivamente, esto, hasta que tenga cadenas de longitud 1 o de 1 elemento. Luego, se ordena cada elemento empezando con la fusión de dos pares entre sí, despuésen grupos y así sucesivamente hasta que se tenga una lista ordenada.
 
 **_Muchas gracias por ver mi repo, TQM (sólo si le das estrellita) y toma agua :)_**
+![image](https://github.com/Cate1911/La_listica_y_el_arreglo/assets/141857246/8ea79d5c-d11e-4d4a-a993-283511198df4)
+
